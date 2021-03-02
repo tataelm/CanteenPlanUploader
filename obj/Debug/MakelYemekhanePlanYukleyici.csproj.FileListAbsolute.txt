@@ -1,0 +1,17 @@
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.csprojAssemblyReference.cache
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.Form1.resources
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.Properties.Resources.resources
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.csproj.GenerateResource.cache
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.csproj.CoreCompileInputs.cache
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Debug\MakelYemekhanePlanYukleyici.exe.config
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Debug\MakelYemekhanePlanYukleyici.exe
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Debug\MakelYemekhanePlanYukleyici.pdb
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.exe
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.pdb
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\Interop.VBIDE.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.csproj.ResolveComReference.cache
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Debug\MakelYemekhanePlanYukleyici.csproj.CopyComplete

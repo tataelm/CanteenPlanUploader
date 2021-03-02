@@ -1,0 +1,16 @@
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Release\MakelYemekhanePlanYukleyici.exe.config
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Release\MakelYemekhanePlanYukleyici.exe
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Release\MakelYemekhanePlanYukleyici.pdb
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Release\Newtonsoft.Json.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\bin\Release\Newtonsoft.Json.xml
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\Interop.VBIDE.dll
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.csproj.ResolveComReference.cache
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.Form1.resources
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.Properties.Resources.resources
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.csproj.GenerateResource.cache
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.csproj.CoreCompileInputs.cache
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.csproj.CopyComplete
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.exe
+C:\Users\Atahan.Elmacioglu\Desktop\PROJECTS\WINDOWS\MakelYemekhanePlanYukleyici\obj\Release\MakelYemekhanePlanYukleyici.pdb
